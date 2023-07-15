@@ -10,17 +10,17 @@ This project is a calculator that will allow the user to choose which calculatio
 4. How to use
 
 # Installation
-if you want to view / contribute changes to work in this repository.
-Go to this repository on github. (you’ll find it at https://github.com/harryfinch73/finalcapstone)
-Click the “Fork” button at the top right.
-You’ll now have your own copy of that repository in your github account.
-Open a terminal/shell.
-Type $ git clone git@github.com:username/the_repo
-You’ll now have a local copy of your version of that repository.
-once you have done this youll be able to view selected files as well as edit them. 
-Change into that project directory (the_repo): $ cd the_repo
-Add a connection to the original owner’s repository. $ git remote add myfriend git://github.com/myfriend/the_repo
-To check this remote add set up: $ git remote -v
+1. From the main repository page, locate the file you want to download. You can do this by navigating the folders, or by clicking Go to File near the top of the page. This opens a list of all files in the repository that you can search.
+
+file search in github
+
+2. Click the file you want to download. This will open the file in GitHub.
+![alt text] https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/How%20to%20Download%20From%20GitHub%20A%20Beginners%20Guide-1.jpeg?width=650&height=261&name=How%20to%20Download%20From%20GitHub%20A%20Beginners%20Guide-1.jpeg
+3. On the file page, click the Raw button. This opens the raw code in your browser.
+
+the raw code view in github
+
+4. Right-click the page and select Save as…, then name the file and choose where to save it on your device.
 
 # How to use
 1. Input 'Bond' or 'Investment'
