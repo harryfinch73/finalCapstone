@@ -15,10 +15,8 @@ This project is a calculator that will allow the user to choose which calculatio
 file search in github
 
 2. Click the file you want to download. This will open the file in GitHub.
-![alt text] https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/How%20to%20Download%20From%20GitHub%20A%20Beginners%20Guide-1.jpeg?width=650&height=261&name=How%20to%20Download%20From%20GitHub%20A%20Beginners%20Guide-1.jpeg
-3. On the file page, click the Raw button. This opens the raw code in your browser.
 
-the raw code view in github
+3. On the file page, click the Raw button. This opens the raw code in your browser.
 
 4. Right-click the page and select Save as…, then name the file and choose where to save it on your device.
 
