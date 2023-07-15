@@ -10,6 +10,17 @@ This project is a calculator that will allow the user to choose which calculatio
 4. How to use
 
 # Installation
+if you want to view / contribute changes to work in this repository.
+Go to this repository on github. (you’ll find it at https://github.com/harryfinch73/finalcapstone)
+Click the “Fork” button at the top right.
+You’ll now have your own copy of that repository in your github account.
+Open a terminal/shell.
+Type $ git clone git@github.com:username/the_repo
+You’ll now have a local copy of your version of that repository.
+once you have done this youll be able to view selected files as well as edit them. 
+Change into that project directory (the_repo): $ cd the_repo
+Add a connection to the original owner’s repository. $ git remote add myfriend git://github.com/myfriend/the_repo
+To check this remote add set up: $ git remote -v
 
 # How to use
 1. Input 'Bond' or 'Investment'
