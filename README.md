@@ -12,8 +12,6 @@ This project is a calculator that will allow the user to choose which calculatio
 # Installation
 1. From the main repository page, locate the file you want to download. You can do this by navigating the folders, or by clicking Go to File near the top of the page. This opens a list of all files in the repository that you can search.
 
-file search in github
-
 2. Click the file you want to download. This will open the file in GitHub.
 
 3. On the file page, click the Raw button. This opens the raw code in your browser.
